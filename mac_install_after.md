@@ -1,9 +1,9 @@
 #  记录一次mac安装后的操作
-## 作者博客 https://www.lhrsite.com/
+##作者博客 https://www.lhrsite.com/
 如有不足请多指教
 ## 忘对大家有帮助
 
-介绍一下我是一个程序员全栈用的比较杂，所以涉及的比较多，工作机是macbookpro 16顶配，台式机黑果&win10双系统
+介绍一下我是一个程序员全栈用的比较杂，所以涉及的比较多，工作机是macbookpro16顶配，台式机黑果&win10双系统
 
 ## 1. 安装homebrew
 ```shell
@@ -12,7 +12,7 @@
 如果无法安装请对目标文件开权限
 如果我没记错的话应该是 /usr/local/homebrew/
 如果不对应该就是/usr/local/homebrew/library/homebrew/
-如果记错的话希望大家反馈一下
+如果记错的话希望大家反馈一下
 ```
 sudo chmod -R 777 *
 ```
@@ -24,7 +24,7 @@ brew update && brew upgrade
 ```
 
 ## 2. 安装brew cask
-这是一个基于homebrew的软件包管理的程序，非常好用
+这是一个基于homebrew的软件包管理的程序，非常好用
 ```
 brew install caskroom/cask/brew-cask
 
@@ -57,9 +57,9 @@ haorans-iMac:~ lhr$ brew cask install google-chrome
 #                                                                          1.8%
 
 ```
-## 3. 安装vscode[官网](https://code.visualstudio.com)
-## 4. 安装百度输入法 
-为什么是百度输入法呢，搜狗输入法mac版的感觉不太好（个人 认为）
+## 3. 安装vscode[官网](https://code.visualstudio.com)
+## 4. 安装百度输入法
+为什么是百度输入法呢，搜狗输入法mac版的感觉不太好（个人认为）
 ## 5. 安装 qq，微信，xcode（不做介绍了）
 ## 6. 安装python
 推荐使用pyenv安装可以进行版本控制
@@ -518,17 +518,17 @@ Bash completion has been installed to:
 
 
 ## 13.安装mysql
-暂时不推荐安装5.7以上的之前作死装了一下很多工具都连不上库了
+暂时不推荐安装5.7以上的之前作死装了一下很多工具都连不上库了
 [社区版官网](https://dev.mysql.com/downloads/mysql/)
 ![](./images/mysql1.png)
 ![](./images/mysql2.png)
 
 
-## 14. 推荐一个mac软件盗版的门户
+## 14. 推荐一个mac软件盗版的门户
 [xclient.info](http://xclient.info/)
 
 
-## 15.folx mac最好的下载工具
+## 15.folx mac最好的下载工具
 收费可去 [xclient.info](http://xclient.info/)下载
 
 
